@@ -1,0 +1,8 @@
+.ctl{
+    display: flex;
+    justify-content: center;
+}
+
+.ctl_btn{
+    margin:.5rem;
+}
